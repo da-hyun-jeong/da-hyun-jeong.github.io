@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "da-hyun-Jeong-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "da-hyun-jeong-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "정다현"
-  avatar           : "https://github.com/an-seunghwan/an-seunghwan.github.io/blob/master/assets/img/avatar.jpg?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/da-hyun-jeong/da-hyun-jeong.github.io/blob/master/assets/img/avatar.jpg?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "서울시립대학교 통계학과 석사과정"
   location         : "대한민국, 서울시"
   email            : # "dpeltms79@gmail.com"
@@ -119,14 +119,14 @@ author:
       url: mailto:chamingirl@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/da-hyun-Jeong"
+      url: "https://github.com/da-hyun-jeong"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/da-hyun-Jeong"
+      url: "https://github.com/da-hyun-jeong"
 
 # Reading Files
 include:
