@@ -6,13 +6,10 @@ layout: single
     
 # Interested in:
 1. On-line Portfolio Selection
-  - how to code with tensorflow 2.0
-  - apply to sentence generation
 
 2. optimization
 
 3. ML
-  - surrogate loss and its consistency
 
 # About ME
 1. 학력
