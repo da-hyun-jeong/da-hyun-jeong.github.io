@@ -22,8 +22,8 @@ title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "정다현"
 description              : "데이터 분석에 관한 블로그입니다!"
-url                      : "https://da-hyun-jeong.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : " " # the subpath of your site, e.g. "/blog"
+url                      : "https://da-hyun-jeong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "정다현"
-  avatar           : "https://github.com/da-hyun-jeong/da-hyun-jeong.github.io/blob/master/assets/img/avatar.jpg?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/da-hyun-jeong/da-hyun-jeong.github.io/blob/main/assets/img/avatar.jpg?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "서울시립대학교 통계학과 석사과정"
   location         : "대한민국, 서울시"
   email            : # "dpeltms79@gmail.com"
