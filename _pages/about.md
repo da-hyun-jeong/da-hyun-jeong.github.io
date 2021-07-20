@@ -5,7 +5,7 @@ layout: single
 ---
     
 # Interested in:
-1. On-line Portfolio Selection
+1. Portfolio Selection
 
 2. optimization
 
