@@ -5,7 +5,7 @@ layout: single
 ---
     
 # Interested in:
-1. Portfolio Selection
+1. Credit Risk Assesment
 
 2. optimization
 
