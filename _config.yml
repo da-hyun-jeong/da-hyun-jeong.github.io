@@ -21,7 +21,7 @@ title                    : "RaccoonKing"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "정다현"
-description              : "데이터 분석에 관한 블로그입니다!"
+description              : "서울시립대학교 통계학과 석사과정"
 url                      : "https://da-hyun-jeong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
